@@ -1,4 +1,4 @@
-m775115559@gmail.com
+slamymnyr12@gmail.comm775115559@gmail.com
 ![sheetseeimg](img/next-sheetsee.png)
 
 ### Sheetsee.js is a client-side library for connecting Google Spreadsheets to a website and visualizing the information with tables and charts.
